@@ -1,0 +1,8 @@
+Antonio 33
+Laura 15
+Manuel 14
+Aeris 10
+Sergio 9
+Romulo 8
+Antonia 5
+Pablo 2
